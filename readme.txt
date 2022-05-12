@@ -1,2 +1,1 @@
-2e23435435
-fwefwefwefkwep;kf#
+Creating a new branch is quick and simple.
